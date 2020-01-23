@@ -1,0 +1,14 @@
+Index: test/css/yes.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/css/yes.php	(revision 778a3281d6b5a356196855ef236ac75b2b1da94c)
++++ test/css/yes.php	(date 1579807977045)
+@@ -1,2 +1,3 @@
+ <?php
+-echo "branche";
+\ No newline at end of file
++echo "branche";
++echo "hello";
+\ No newline at end of file
