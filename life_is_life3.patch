@@ -1,0 +1,64 @@
+Index: test/css/hello.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/css/hello.php	(revision 52e135d4498a974891586140f1a61a64faa8335d)
++++ test/css/hello.php	(date 1579753966632)
+@@ -7,4 +7,5 @@
+ echo "life is life!!";
+ echo "noo";
+ echo "abc";
+-echo "yyee";
+\ No newline at end of file
++echo "yyee";
++echo "ooo";
+\ No newline at end of file
+Index: life_is_life2.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- life_is_life2.patch	(date 1579753814457)
++++ life_is_life2.patch	(date 1579753814457)
+@@ -0,0 +1,40 @@
++Index: test/css/hello.php
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++--- test/css/hello.php	(revision dbdc0a6ec0648bb8e24b8f4246b27bd0b92af38e)
+++++ test/css/hello.php	(date 1579753807806)
++@@ -6,4 +6,5 @@
++ echo "yess hello";
++ echo "life is life!!";
++ echo "noo";
++-echo "abc"
++\ No newline at end of file
+++echo "abc";
+++echo "yyee";
++\ No newline at end of file
++Index: life_is_life1.patch
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++--- life_is_life1.patch	(date 1579753557375)
+++++ life_is_life1.patch	(date 1579753557375)
++@@ -0,0 +1,16 @@
+++Index: test/css/hello.php
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++--- test/css/hello.php	(revision bd0b529f7ebdaa1a44b01cb4b7586dd8618fc0ae)
++++++ test/css/hello.php	(date 1579753552134)
+++@@ -5,4 +5,5 @@
+++ echo "no hello!!!!!";
+++ echo "yess hello";
+++ echo "life is life!!";
+++-echo "noo";
+++\ No newline at end of file
++++echo "noo";
++++echo "abc"
+++\ No newline at end of file
