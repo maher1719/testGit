@@ -1,7 +1,7 @@
 <?php
+
 echo "hllo";
-echo "silence is golden!!";//hold
-echo "life is life";
-echo "noooooo";
-echo "yess";
-echo "ooooo";
+echo "silence is golden!!";//holda x
+echo "hello";
+echo "life";
+
