@@ -1,0 +1,14 @@
+Index: test/js/index.html.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/js/index.html.js	(revision 867d83c06d7bb66297f6cb63bdefc694357986d0)
++++ test/js/index.html.js	(date 1579807700516)
+@@ -1,0 +1,5 @@
++function f() {
++
++
++
++}
+\ No newline at end of file
