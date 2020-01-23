@@ -8,3 +8,4 @@ echo "life is life!!";
 echo "noo";
 echo "abc";
 echo "yyee";
+echo "ooo";
