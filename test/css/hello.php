@@ -5,4 +5,3 @@ echo "hello";
 echo "no hello!!!!!";
 echo "yess hello";
 echo "life is life!!";
-echo "rr";
