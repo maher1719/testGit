@@ -3,5 +3,7 @@
 echo "hllo";
 echo "silence is golden!!";//holda x
 echo "hello";
-echo "lifee is djss";
+echo "life";
+echo "why life";
+echo "test";
 
