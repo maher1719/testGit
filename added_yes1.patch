@@ -1,0 +1,14 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(revision 2babc4d5ff1d90ff662096bab126601131ccaad2)
++++ index.php	(date 1579806884428)
+@@ -5,5 +5,5 @@
+ echo "hello";
+ echo "life";
+ echo "why life";
+-echo "test";
++echo "test3";
+ 
