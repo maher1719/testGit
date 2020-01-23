@@ -1,0 +1,15 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(revision 72bbd7c2b92162bf35e582be86643186d27fc79a)
++++ index.php	(date 1579754449489)
+@@ -1,3 +1,4 @@
+ <?php
+ echo "hello";
+-echo "life";
+\ No newline at end of file
++echo "life";
++echo "fuckk you";
+\ No newline at end of file
