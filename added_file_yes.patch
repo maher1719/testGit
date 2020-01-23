@@ -1,0 +1,16 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(revision 3c12dcb085d704d9dbd260ff525a98b621ab9fab)
++++ index.php	(date 1579807129823)
+@@ -3,5 +3,7 @@
+ echo "hllo";
+ echo "silence is golden!!";//holda x
+ echo "hello";
+-echo "lifee is djss";
++echo "life";
++echo "why life";
++echo "test";
+ 
