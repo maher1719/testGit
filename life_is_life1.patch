@@ -1,0 +1,16 @@
+Index: test/css/hello.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/css/hello.php	(revision bd0b529f7ebdaa1a44b01cb4b7586dd8618fc0ae)
++++ test/css/hello.php	(date 1579753552134)
+@@ -5,4 +5,5 @@
+ echo "no hello!!!!!";
+ echo "yess hello";
+ echo "life is life!!";
+-echo "noo";
+\ No newline at end of file
++echo "noo";
++echo "abc"
+\ No newline at end of file
